@@ -1,0 +1,32 @@
+Sl. No.,State/UT,Component-A (in MW) - Sanctioned,Component-A (in MW) - Installed,Component-B (No. of Tubewell) - Sanctioned,Component-B (No. of Tubewell) - Installed,Component-C (No. of Tubewell) - Sanctioned (IPS),Component-C (No. of Tubewell) - Sanctioned (FLS),Component-C (No. of Tubewell) - Pumps Solarized
+1,Arunachal Pradesh,NA,NA,700,394,NA,NA,NA
+2,Andman and Nicobar Islands,NA,NA,34,NA,436,NA,NA
+3,Assam,10,NA,4000,NA,1000,NA,NA
+4,Bihar,NA,NA,NA,NA,NA,136812,NA
+5,Chhattisgarh,30,4,10000,NA,NA,NA,NA
+6,Goa,150,NA,900,80,NA,11000,700
+7,Gujarat,500,NA,12382,7670,NA,725000,25527
+8,Haryana,85,6.65,197655,136572,NA,45519,NA
+9,Himachal Pradesh,100,25.95,1270,663,NA,NA,NA
+10,Jammu and Kashmir,20,NA,5000,1868,4000,NA,NA
+11,Jharkhand,20,NA,42985,21522,1000,NA,NA
+12,Karnataka,NA,NA,41360,1387,NA,766588,1713
+13,Kerala,40,NA,8,8,45100,25387,7293
+14,Ladakh,NA,NA,1400,NA,NA,NA,NA
+15,Madhya Pradesh,1490,31.63,59400,7325,NA,445000,7417
+16,Maharashtra,700,6,505000,197863,NA,775000,31428
+17,Manipur,NA,NA,150,78,NA,NA,NA
+18,Meghalaya,NA,NA,3035,96,NA,NA,NA
+19,Mizoram,NA,NA,1700,40,NA,NA,NA
+20,Nagaland,5,NA,265,65,NA,NA,NA
+21,Odisha,500,NA,16441,5470,25000,10000,NA
+22,Puducherry,NA,NA,NA,NA,NA,NA,NA
+23,Punjab,220,NA,53000,12952,186,75000,NA
+24,Rajasthan,1550,244,212914,85635,6418,350000,4697
+25,Tamil Nadu,424,1,5200,3815,5000,6000,NA
+26,Telangana,4000,NA,NA,NA,28000,NA,NA
+27,Tripura,5,NA,10895,3496,2600,NA,50
+28,Uttar Pradesh,151,NA,110948,53182,12000,94000,2000
+29,Uttarakhand,NA,NA,5685,318,200,NA,NA
+30,West Bengal,NA,NA,NA,NA,700,NA,20
+Total,Total,10000,319.23,1302327,540499,131640,3465306,80845

@@ -1,0 +1,35 @@
+Sl. No.,State/UT,Component-A (MW) - Sanctioned,Component-A (MW) - Installed,Component-B (Nos) - Sanctioned,Component-B (Nos) - Installed,Component-C (Nos) - Sanctioned (IPS),Component-C (Nos) - Sanctioned (FLS),Component-C (Nos) - Installed (IPS+FLS)
+1,Andaman and Nicobar Islands,0,0,34,0,436,0,0
+2,Andhra Pradesh,0,0,0,0,0,100000,0
+3,Arunachal Pradesh,0,0,700,434,0,0,0
+4,Assam,2,0,4000,0,0,0,0
+5,Bihar,0,0,0,0,0,70000,0
+6,Chhattisgarh,30,4,0,0,0,0,0
+7,Dadra and Nagar Haveli,0,0,0,0,0,0,0
+8,Daman and Diu,0,0,0,0,0,0,0
+9,Gujarat,0,0,18212,9349,0,725000,91976
+10,Goa,50,0,900,100,0,11000,700
+11,Haryana,158,6.65,197655,149717,0,12899,0
+12,Himachal Pradesh,100,25.95,1270,785,0,0,0
+13,Jammu and Kashmir,0,0,5000,2228,0,0,0
+14,Jharkhand,0,0,42985,31509,0,0,0
+15,Karnataka,0,0,41360,1895,0,766588,5066
+16,Kerala,0,0,8,8,39448,25387,8999
+17,Ladakh,0,0,1400,0,0,0,0
+18,Madhya Pradesh,1790,48.63,59400,7325,0,445000,7417
+19,Maharashtra,260,6,505000,336289,0,775000,113640
+20,Manipur,0,0,1150,78,0,0,0
+21,Meghalaya,0,0,3035,98,0,0,0
+22,Mizoram,0,0,1700,40,0,0,0
+23,Nagaland,0,0,265,65,0,0,0
+24,Odisha,40,0,16441,5666,0,10000,0
+25,Puducherry,0,0,0,0,0,0,0
+26,Punjab,0,0,33000,12952,186,95000,0
+27,Rajasthan,6550,338.75,162914,96731,6418,400000,20108
+28,Tamil Nadu,14,1,5200,4187,5000,6000,0
+29,Telangana,1000,0,0,0,28000,0,0
+30,Tripura,5,0,10895,4072,3600,0,50
+31,Uttar Pradesh,1,0,110948,61181,12000,129000,2000
+32,Uttarakhand,0,0,5685,866,200,0,0
+33,West Bengal,0,0,0,0,20,0,20
+Total,Total,10000,430.98,1229157,725575,95308,3570874,249976
